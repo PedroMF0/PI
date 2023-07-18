@@ -1,0 +1,12 @@
+* telas de login e cadastro (cliente);
+* tela de cadastro feita por etapas;
+* tela de login simples (cpf e senha(botão de esconder senha));
+* tela de saldo/primeira tela pós login;
+* tela de ajuda/suporte perguntas FAQ e area pro usuario digitar sua duvida;
+
+
+* tela de login e cadastro(funcionario);
+* design simples;
+* definir cargo do funcionário;
+*** tentar que um cargo especifico tenha mais opções de trabalho ex: somente o gerente pode alterar a tabela;
+
