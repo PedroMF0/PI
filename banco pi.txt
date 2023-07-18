@@ -1,0 +1,11 @@
+create table cadastrofunc (
+ idfunc bigint auto_increment primary key not null,
+ nomefunc varchar(50) not null,
+ enderecofunc varchar(50) not null,
+ cpffunc bigint not null,
+ dtnascfunc varchar(12) not null,
+ fonefunc varchar(30) not null,
+ emailfunc varchar(50) not null,
+ senhafunc varchar(30) not null
+);
+ 
